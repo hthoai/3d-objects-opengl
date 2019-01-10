@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\hawliet\\OneDrive\\FIT\\Computer Graphics\\Demo0\\Demo0_WForm\\Demo0_WForm.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
